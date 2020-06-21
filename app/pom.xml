@@ -11,7 +11,7 @@
 
     <artifactId>app</artifactId>
     <name>app</name>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <dependencies>
         <dependency>
