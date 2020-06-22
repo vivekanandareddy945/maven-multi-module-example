@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.jamesward</groupId>
     <artifactId>multi</artifactId>
-    <version>1.5-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>multi</name>
     <modules>
@@ -11,20 +11,20 @@
     </modules>
     
     <scm>
-        <connection>scm:git:https://github.com/Nani0406/maven-multi-module-example.git</connection>
-        <url>https://github.com/Nani0406/maven-multi-module-example.git</url>
-        <developerConnection>scm:git:https://Nani0406:Nani_0406@github.com/Nani0406/maven-multi-module-example.git</developerConnection>
+        <connection>scm:git:https://github.com/vivekanandareddy945/maven-multi-module-example.git</connection>
+        <url>https://github.com/vivekanandareddy945/maven-multi-module-example.git</url>
+        <developerConnection>scm:git:https://vivekanandareddy945:Saibaba21234@github.com/vivekanandareddy945/maven-multi-module-example.git</developerConnection>
         <tag>HEAD</tag>
   </scm>
     
   <distributionManagement>
     <snapshotRepository>
       <id>nexus</id>
-      <url>http://13.234.240.58:8081/nexus/content/repositories/snapshots</url>
+      <url>http://13.234.202.158:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
     <repository>
       <id>nexus</id>
-      <url>http://13.234.240.58:8081/nexus/content/repositories/releases</url>
+      <url>http://13.234.202.158:8081/nexus/content/repositories/releases</url>
     </repository>
  </distributionManagement>
   
