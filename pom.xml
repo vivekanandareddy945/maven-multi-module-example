@@ -13,7 +13,7 @@
     <scm>
         <connection>scm:git:https://github.com/vivekanandareddy945/maven-multi-module-example.git</connection>
         <url>https://github.com/vivekanandareddy945/maven-multi-module-example.git</url>
-        <developerConnection>scm:git:https://vivekanandareddy945:Saibaba21234@github.com/vivekanandareddy945/maven-multi-module-example.git</developerConnection>
+        <developerConnection>scm:git:https://vivekanandareddy945:Vinayaka_1234_321@github.com/vivekanandareddy945/maven-multi-module-example.git</developerConnection>
         <tag>HEAD</tag>
   </scm>
     
